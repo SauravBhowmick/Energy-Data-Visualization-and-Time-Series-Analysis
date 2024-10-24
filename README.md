@@ -14,6 +14,7 @@ We can see from the graph that the energy source is more occuring in 2000-4000MW
 
 #### Trend and Seasonal Decomposition:
 - Perform additive decomposition since seasonal growth is almost varying around 6000.
+![Alt text](https://github.com/SauravBhowmick/Energy-Data-Visualization-and-Time-Series-Analysis/blob/main/EDE2_Project1_visual2.JPG)
 
 #### Decomposition of Daily Profiles:
 - Break down daily energy profiles to understand underlying patterns.
