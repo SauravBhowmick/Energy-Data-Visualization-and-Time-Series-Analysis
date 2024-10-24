@@ -1,4 +1,4 @@
-# EDE2_Project1
+# Energy Data Engineering-2-Project1
 ARIMA models
 
 ## Energy Data Visualization and Time Series Analysis
