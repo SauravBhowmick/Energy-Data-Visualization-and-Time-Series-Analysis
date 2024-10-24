@@ -8,6 +8,8 @@ Problem Statement: How CO2 is effected by energy sources. A detailed data visual
 #### Data Visualization:
 - Visualize the energy data to identify patterns and trends effectively.
 
+![Alt text](https://github.com/SauravBhowmick/Energy-Data-Visualization-and-Time-Series-Analysis/blob/main/EDE2_Project1_visual.JPG)
+
 #### Trend and Seasonal Decomposition:
 - Perform additive decomposition since seasonal growth is almost varying around 6000.
 
