@@ -2,7 +2,7 @@
 ARIMA models
 
 ## Energy Data Visualization and Time Series Analysis
-This repository contains scripts and models for visualizing energy data and performing comprehensive time series analysis. The focus is on trend and seasonal decomposition, daily profile decomposition, and ARIMA model selection and deployment.
+Problem Statement: How CO2 is effected by energy sources. A detailed data visualisation needs to be done to identify the trends. Create a synthetic model for the future year by fitting to the best ARIMA model.
 
 ### Features:
 #### Data Visualization:
@@ -27,5 +27,5 @@ This repository contains scripts and models for visualizing energy data and perf
 - Visualize the forecast including uncertainty ranges.
 - Evaluate forecast quality using RMSE (Root Mean Square Error).
 ##### Synthetic Profile Creation:
-- Create a synthetic profile for 2024.
-- Deploy a statistical model for the residuals to closely imitate the time series in terms of autocorrelation, moving average, variance, and mean.
+- Created a synthetic profile for 2024.
+- Deployed a statistical model for the residuals to closely imitate the time series in terms of autocorrelation, moving average, variance, and mean.
