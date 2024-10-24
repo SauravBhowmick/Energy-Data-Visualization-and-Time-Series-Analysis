@@ -9,7 +9,8 @@ Problem Statement: How CO2 is effected by energy sources. A detailed data visual
 - Visualize the energy data to identify patterns and trends effectively.
 
 ![Alt text](https://github.com/SauravBhowmick/Energy-Data-Visualization-and-Time-Series-Analysis/blob/main/EDE2_Project1_visual.JPG)
-We can see from the grapg that the energy source is more occuring in 2000-3000MW.
+
+- We can see from the grapg that the energy source is more occuring in 2000-4000MW.
 
 #### Trend and Seasonal Decomposition:
 - Perform additive decomposition since seasonal growth is almost varying around 6000.
